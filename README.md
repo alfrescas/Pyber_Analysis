@@ -1,7 +1,7 @@
 # Pyber Analysis
 
 ## Project Overview
-V. Isualize has asked for the following:
+The company Pyber, seeks a data analysis that would assess and showcase ride sharing services to neighborhoods that are underserved. The results of the analysis will improve affordibility and accessibility to these neighborhoods. The company's CEO V. Isualize has asked for the following:
  - A summary DataFrame of the ride-sharing data by city type.
  - Creating a multiple line graph that shows the fares for each city type.
  - A summary of the data analysis that will be used by decision-makers at Pyber.
@@ -18,4 +18,6 @@ V. Isualize has asked for the following:
  After doing calculations to create a summary DataFrame for the ride-sharing data, below is the image of the results:
  
  <img width="485" alt="image" src="https://user-images.githubusercontent.com/107371010/185267506-8432c801-cbfc-492a-8777-90882f508aab.png">
+ 
+ 
 
