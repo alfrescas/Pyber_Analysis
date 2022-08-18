@@ -23,11 +23,19 @@ The company Pyber, seeks a data analysis that would assess and showcase ride-sha
  
  <img width="578" alt="image" src="https://user-images.githubusercontent.com/107371010/185456945-772156d1-767f-4c0a-9b98-b9045df08834.png">
  
- The results show that the _Rural_ city type is the most underserved, the city type is _Suburban_, and the city type with the most ride-sharing success is _Urban_. 
+ The results show that the _Rural_ city type is the most underserved, the following city type is _Suburban_, and the city type with the most ride-sharing success is _Urban_. 
 
 # Summary:
 
-Based on the analysis provided, in order for Pyber to achieve it's goal in creating ride-sharing accessibility to underserved neighborhoods
+Based on the analysis provided, in order for Pyber to achieve it's goal in creating ride-sharing accessibility to underserved neighborhoods.
+- Pyber would need to start by focusing on improving ride-sharing services to the _Rural_ areas
+- Improving prices on ride-sharing affordibility to the _Rural_ neighborhoods. 
+- Increase the amount of drivers in the _Rural_ neighborhoods.
+
+Below is the visual that shows that there is not many drivers in these areas and that the average fare per ride is higher than the other city types. 
+
+<img width="429" alt="image" src="https://user-images.githubusercontent.com/107371010/185459058-f4283098-b47f-4942-b3a3-e3355b974737.png">
+
 
  
 
