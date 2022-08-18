@@ -28,7 +28,7 @@ The company Pyber, seeks a data analysis that would assess and showcase ride-sha
 # Summary:
 
 Based on the analysis provided, in order for Pyber to achieve it's goal in creating ride-sharing accessibility to underserved neighborhoods.
-- Pyber would need to start by focusing on improving ride-sharing services to the _Rural_ areas
+- Pyber would need to start by focusing on improving ride-sharing services to the _Rural_ areas.
 - Improving prices on ride-sharing affordibility to the _Rural_ neighborhoods. 
 - Increase the amount of drivers in the _Rural_ neighborhoods.
 
