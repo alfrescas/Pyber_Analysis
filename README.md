@@ -14,3 +14,8 @@ V. Isualize has asked for the following:
  Utilizing the data sources provided for the analysis, I was able to merge the data using the pd.merge method as shown below:
  
  <img width="515" alt="image" src="https://user-images.githubusercontent.com/107371010/185265731-7bf178fc-fa85-4ab6-b395-85c40d5305e0.png">
+ 
+ After doing calculations to create a summary DataFrame for the ride-sharing data, below is the image of the results:
+ 
+ <img width="485" alt="image" src="https://user-images.githubusercontent.com/107371010/185267506-8432c801-cbfc-492a-8777-90882f508aab.png">
+
